@@ -1,0 +1,23 @@
+img{
+  width:350px;
+}
+h3{
+  font-family:Arial;
+}
+table, td{
+  border-collapse:collapse;
+  border:1px solid #21543c;
+  padding:10px
+}
+table{
+  margin:15px 0px;
+}
+.odd{
+  background-color:#92d3b5;
+}
+a:hover{
+  text-decoration:none;
+}
+a:visited{
+  color:#13212f;
+}
